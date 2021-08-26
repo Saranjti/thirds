@@ -1,2 +1,2 @@
 # thirds
-print(HELLO-)
+print(HELLO-wo)
