@@ -1,1 +1,2 @@
 # thirds
+print(HELLO-)
